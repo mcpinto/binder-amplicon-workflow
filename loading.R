@@ -1,0 +1,5 @@
+BiocManager::install("dada2")
+BiocManager::install("decontam")
+BiocManager::install("DESeq2")
+BiocManager::install("phyloseq")
+BiocManager::install("ShortRead")
