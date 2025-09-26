@@ -9,6 +9,8 @@ dependencies:
   - r-biocmanager
   - r-dendextend
   - r-devtools
+  - r-fpc
+  - r-mvtnorm
   - r-reshape
   - r-tidyr
   - r-vegan
