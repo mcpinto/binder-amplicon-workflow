@@ -1,18 +1,11 @@
 name: amplicon-environment
 channels:
+  - bioconda
   - conda-forge
+  - defaults
 dependencies:
   - python=3.10
-  - numpy
-  - psutil
-  - toolz
-  - dill
-  - partd
-  - bokeh
-  - dask
+  - r-base
   - pip
   - pip:
-    - nbgitpuller
-    - sphinx-gallery
-    - pandas
     - matplotlib
