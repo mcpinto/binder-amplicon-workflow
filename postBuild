@@ -1,2 +1,4 @@
 #!/bin/bash
+echo '# include /srv/conda path' >> ~/.bashrc
 echo 'export PATH="/srv/conda/etc/profile.d/:$PATH"' >> ~/.bashrc
+echo 'source /srv/conda/etc/profile.d/conda.sh' >> ~/.bashrc
