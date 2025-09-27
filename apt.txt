@@ -1,5 +1,5 @@
 apt-utils
-nano
+vim
 tzdata
 libncurses5-dev
 libncursesw5-dev
