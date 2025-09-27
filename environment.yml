@@ -15,6 +15,7 @@ dependencies:
   - r-tidyr
   - r-vegan
   - r-viridis
+  - rstudio-desktop
   - pip
   - pip:
     - cutadapt
